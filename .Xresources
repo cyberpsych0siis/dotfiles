@@ -1,0 +1,57 @@
+! URxvt
+URxvt.scrollBar: false
+!URxvt.font:	xft:Iosevka Term
+!URxvt*font:                 xft:Iosevka Term:regular:size=11, xft:Noto Emoji
+!URxvt*imFont:               xft:Iosevka Term:italic:size=11
+!URxvt*boldFont:             xft:Iosevka Term:bold:size=11
+!URxvt*italicFont:           xft:Iosevka Term:italic:size=11
+!URxvt*boldItalicFont:       xft:Iosevka Term:bold italic:size=11
+URxvt*font:		xft:TamzenForPowerline:regular:size=11, xft:Noto Emoji
+URxvt*boldFont:		xft:TamzenForPowerline:bold:size=11
+URxvt*depth: 32
+URxvt*borderless: 1
+!URxvt*transparency: true
+!URxvt.internalBorder: 10
+
+*.background:       rgba:0015/0015/0015/cccc
+
+!URxvt.transparent:   true
+!URxvt.tintColor:     white
+!URxvt.shading:       20 
+
+! special
+*.foreground:   #d0d0d0
+!*.background:   #151515
+*.cursorColor:  #d0d0d0
+
+! black
+*.color0:       #151515
+*.color8:       #505050
+
+! red
+*.color1:       #ac4142
+*.color9:       #ac4142
+
+! green
+*.color2:       #90a959
+*.color10:      #90a959
+
+! yellow
+*.color3:       #f4bf75
+*.color11:      #f4bf75
+
+! blue
+*.color4:       #6a9fb5
+*.color12:      #6a9fb5
+
+! magenta
+*.color5:       #aa759f
+*.color13:      #aa759f
+
+! cyan
+*.color6:       #75b5aa
+*.color14:      #75b5aa
+
+! white
+*.color7:       #d0d0d0
+*.color15:      #f5f5f5
